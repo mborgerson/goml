@@ -1,0 +1,3 @@
+[submodule "sprinkler"]
+	path = sprinkler
+	url = https://github.com/mborgerson/bhyve-zone-interval.git
